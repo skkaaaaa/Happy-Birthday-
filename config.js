@@ -22,7 +22,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "送 给 我 的 小 伙 伴": "./imgs/xiaokeai.png",
+        "今 天 是 你 的 生 日": "./imgs/zj.png",
 
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
